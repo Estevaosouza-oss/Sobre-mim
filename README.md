@@ -1,6 +1,6 @@
 # Sobre-mim
 
-## Ola eu sou o Estevao Kayes (Estevaosouza-oss)
+## Ola! eu sou o Estevao Kayes (Estevaosouza-oss)
 
 ### Ainda nao trabalho com Desenvolvimento!
 
